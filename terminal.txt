@@ -1,5 +1,8 @@
 hello world 
-mi namos python
+mi namos c++
+
+thala for a reason 
+
 watashiwa eren desuka
 
 moshi moshi
